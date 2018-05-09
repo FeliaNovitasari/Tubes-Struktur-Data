@@ -1,0 +1,412 @@
+# depslib dependency file v1.0
+1523517733 source:d:\bestu dts\blanktubes\main.cpp
+	<iostream>
+
+1523358277 source:d:\bestu dts\blanktubes\child(tsll).cpp
+	<iostream>
+	"child(tsll).h"
+
+1523356826 d:\bestu dts\blanktubes\child(tsll).h
+	<iostream>
+
+1523358366 source:d:\bestu dts\blanktubes\relasi(tdll).cpp
+	<iostream>
+	"relasi(tdll).h"
+
+1523455077 d:\bestu dts\blanktubes\relasi(tdll).h
+	"child(tsll).h"
+	"parent(tcsll).h"
+	"relasi(tdll).h"
+	<iostream>
+
+1523456507 d:\bestu dts\blanktubes\parent(tcsll).h
+	<iostream>
+
+1523500388 source:d:\bestu dts\blanktubes\child_sll.cpp
+	<iostream>
+	"child_sll.h"
+
+1523501073 d:\bestu dts\blanktubes\child_sll.h
+	<iostream>
+
+1523500818 source:d:\bestu dts\blanktubes\parent_csll.cpp
+	<iostream>
+	"parent_csll.h"
+
+1523501008 d:\bestu dts\blanktubes\parent_csll.h
+	<iostream>
+
+1523501546 source:d:\bestu dts\blanktubes\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	"relasi_dll.h"
+
+1523501384 d:\bestu dts\blanktubes\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1523500388 source:d:\bestu dts\[2]udah bisa ngolah datanya list relasi, tapi belum masuk list\child_sll.cpp
+	<iostream>
+	"child_sll.h"
+
+1523501073 d:\bestu dts\[2]udah bisa ngolah datanya list relasi, tapi belum masuk list\child_sll.h
+	<iostream>
+
+1523517733 source:d:\bestu dts\[2]udah bisa ngolah datanya list relasi, tapi belum masuk list\main.cpp
+	<iostream>
+
+1523500818 source:d:\bestu dts\[2]udah bisa ngolah datanya list relasi, tapi belum masuk list\parent_csll.cpp
+	<iostream>
+	"parent_csll.h"
+
+1523501008 d:\bestu dts\[2]udah bisa ngolah datanya list relasi, tapi belum masuk list\parent_csll.h
+	<iostream>
+
+1523501546 source:d:\bestu dts\[2]udah bisa ngolah datanya list relasi, tapi belum masuk list\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	"relasi_dll.h"
+
+1523501384 d:\bestu dts\[2]udah bisa ngolah datanya list relasi, tapi belum masuk list\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1525179395 source:d:\bestu dts\[]blanktubes\child_sll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525179165 d:\bestu dts\[]blanktubes\child_sll.h
+	<iostream>
+	"parent_csll.h"
+	"relasi_dll.h"
+
+1525179289 source:d:\bestu dts\[]blanktubes\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525166659 source:d:\bestu dts\[]blanktubes\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525179646 d:\bestu dts\[]blanktubes\parent_csll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525179034 source:d:\bestu dts\[]blanktubes\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"relasi_dll.h"
+
+1525179060 d:\bestu dts\[]blanktubes\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1524317510 source:d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum, masih[2]\child_sll.cpp
+	<iostream>
+	"child_sll.h"
+
+1524466440 d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum, masih[2]\child_sll.h
+	<iostream>
+
+1524465642 source:d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum, masih[2]\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1524463621 d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum, masih[2]\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1524466599 d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum, masih[2]\parent_csll.h
+	<iostream>
+
+1524466460 source:d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum, masih[2]\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1524463586 source:d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum, masih[2]\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	"relasi_dll.h"
+
+1524749038 source:d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum\child_sll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1524752051 d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1524748166 d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum\child_sll.h
+	<iostream>
+
+1524748389 d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum\parent_csll.h
+	<iostream>
+
+1524465642 source:d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1524751967 source:d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1524752026 source:d:\bestu dts\[3]sudah dibikin menu tapi submen nya belum\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	"relasi_dll.h"
+
+1525159739 source:d:\bestu dts\[]blanktubes\helper.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525072738 source:d:\kuliah\semester 2\struktur data\new folder\[7]\[]blanktubes\child_sll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525008076 d:\kuliah\semester 2\struktur data\new folder\[7]\[]blanktubes\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1525085611 d:\kuliah\semester 2\struktur data\new folder\[7]\[]blanktubes\child_sll.h
+	<iostream>
+	"parent_csll.h"
+	"relasi_dll.h"
+
+1525008027 d:\kuliah\semester 2\struktur data\new folder\[7]\[]blanktubes\parent_csll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525077830 source:d:\kuliah\semester 2\struktur data\new folder\[7]\[]blanktubes\helper.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525072760 source:d:\kuliah\semester 2\struktur data\new folder\[7]\[]blanktubes\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+	"child_sll.h"
+
+1525073818 source:d:\kuliah\semester 2\struktur data\new folder\[7]\[]blanktubes\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525008550 source:d:\kuliah\semester 2\struktur data\new folder\[7]\[]blanktubes\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"relasi_dll.h"
+
+1525476192 source:d:\bestu dts\[8]persen80\child_sll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525179060 d:\bestu dts\[8]persen80\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1525475479 d:\bestu dts\[8]persen80\child_sll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525179646 d:\bestu dts\[8]persen80\parent_csll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525159739 source:d:\bestu dts\[8]persen80\helper.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525475747 source:d:\bestu dts\[8]persen80\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525448204 source:d:\bestu dts\[8]persen80\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525448198 source:d:\bestu dts\[8]persen80\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"relasi_dll.h"
+
+1525491603 source:d:\kuliah\semester 2\struktur data\[8]persen80menu6looping\child_sll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525179060 d:\kuliah\semester 2\struktur data\[8]persen80menu6looping\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1525477026 d:\kuliah\semester 2\struktur data\[8]persen80menu6looping\child_sll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525179646 d:\kuliah\semester 2\struktur data\[8]persen80menu6looping\parent_csll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525159739 source:d:\kuliah\semester 2\struktur data\[8]persen80menu6looping\helper.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525475747 source:d:\kuliah\semester 2\struktur data\[8]persen80menu6looping\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525484643 source:d:\kuliah\semester 2\struktur data\[8]persen80menu6looping\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525479106 source:d:\kuliah\semester 2\struktur data\[8]persen80menu6looping\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"relasi_dll.h"
+
+1525493001 source:d:\[9]fix\[8]persen80menu6looping\child_sll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525493001 d:\[9]fix\[8]persen80menu6looping\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1525493001 d:\[9]fix\[8]persen80menu6looping\child_sll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525493001 d:\[9]fix\[8]persen80menu6looping\parent_csll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525493001 source:d:\[9]fix\[8]persen80menu6looping\helper.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525493001 source:d:\[9]fix\[8]persen80menu6looping\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525493001 source:d:\[9]fix\[8]persen80menu6looping\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525493001 source:d:\[9]fix\[8]persen80menu6looping\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"relasi_dll.h"
+
+1525493001 source:d:\bestu dts\[9]fixxxxxxxxxxxxxxxxxxxx\helper.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525493001 d:\bestu dts\[9]fixxxxxxxxxxxxxxxxxxxx\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1525493001 d:\bestu dts\[9]fixxxxxxxxxxxxxxxxxxxx\child_sll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525493001 d:\bestu dts\[9]fixxxxxxxxxxxxxxxxxxxx\parent_csll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525493001 source:d:\bestu dts\[9]fixxxxxxxxxxxxxxxxxxxx\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525495482 source:d:\bestu dts\[9]fixxxxxxxxxxxxxxxxxxxx\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525495645 source:d:\kuliah\semester 2\struktur data\kirim\aplikasi parkir_maya ameliasari dan felia novitasari_if 41 10\child_sll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525493001 d:\kuliah\semester 2\struktur data\kirim\aplikasi parkir_maya ameliasari dan felia novitasari_if 41 10\relasi_dll.h
+	"child_sll.h"
+	"parent_csll.h"
+	"relasi_dll.h"
+	<iostream>
+
+1525493001 d:\kuliah\semester 2\struktur data\kirim\aplikasi parkir_maya ameliasari dan felia novitasari_if 41 10\child_sll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525493001 d:\kuliah\semester 2\struktur data\kirim\aplikasi parkir_maya ameliasari dan felia novitasari_if 41 10\parent_csll.h
+	<iostream>
+	"relasi_dll.h"
+
+1525493001 source:d:\kuliah\semester 2\struktur data\kirim\aplikasi parkir_maya ameliasari dan felia novitasari_if 41 10\helper.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525493001 source:d:\kuliah\semester 2\struktur data\kirim\aplikasi parkir_maya ameliasari dan felia novitasari_if 41 10\main.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525495482 source:d:\kuliah\semester 2\struktur data\kirim\aplikasi parkir_maya ameliasari dan felia novitasari_if 41 10\parent_csll.cpp
+	<iostream>
+	<cstdlib>
+	"relasi_dll.h"
+
+1525495814 source:d:\kuliah\semester 2\struktur data\kirim\aplikasi parkir_maya ameliasari dan felia novitasari_if 41 10\relasi_dll.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"relasi_dll.h"
+
